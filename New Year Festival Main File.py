@@ -1,4 +1,4 @@
-# Author: Ricky Tang is a pig
+# Author: Ricky Tang
 # Title: New Year Festival
 # Purpose: Create a cool animation describing a new year night scenary. People are driving on the street and playing in the plaza
 #          They are also sending lanterns to the sky. When the clock strikes at 12 am, they are happy and they raise their arms. They send off fireworks with different types
